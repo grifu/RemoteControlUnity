@@ -1,4 +1,4 @@
-Remote Control for Unity (RCu)
+Remote Control for Unity (Stringless)
 -----------------------------
 * authors: Grifu (Luis Leite)
 * forum: http://www.grifu.com/vm/?forum=remote-control-for-unity
